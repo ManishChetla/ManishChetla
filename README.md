@@ -1,72 +1,21 @@
-# Manish Chetla
+# 💫 About Me:
+🎮 Game Developer focused on gameplay programming and interactive experiences.<br><br>I work with Unity, Unreal Engine, C#, C++, and Blueprints, with interests in gameplay systems, AI, 2D/3D game development, and level design.<br><br>🚀 Currently building games and improving my skills through hands-on projects.
 
-### 🎮 Game Developer | Gameplay Programmer
 
-I build games and interactive experiences using Unity and Unreal Engine.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-chetla/) 
 
-My focus is on gameplay programming, game systems, AI, 2D/3D game development, and creating engaging player experiences.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ManishChetla&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ManishChetla&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManishChetla&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ManishChetla&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Skills
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ManishChetla&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### Game Development
-- Unity
-- Unreal Engine
-- Gameplay Programming
-- AI & Pathfinding
-- Level Design
-- Multiplayer
-
-### Programming
-- C#
-- C++
-- Blueprints
-
-### Tools
-- Blender
-- Git & GitHub
-- Visual Studio
-- DaVinci Resolve
-
----
-
-## 🎮 Featured Projects
-
-### 🏙️ TUF — The Ultimate Thief
-**Unreal Engine • 3D**
-
-Open-world action-adventure game focused on gameplay systems, interactive environments, and game mechanics.
-
-### 👻 Horror FPS
-**Unity • 3D**
-
-First-person horror game focused on exploration, gameplay mechanics, enemy AI, and atmosphere.
-
-### ⚔️ TowerClash
-**Unity • 2D**
-
-2D game project focused on gameplay mechanics and combat systems.
-
-### 💥 BlastBox
-**Unity • 2D**
-
-2D gameplay project focused on physics and interactive mechanics.
-
-### 🌐 Multiplayer Game
-**Unity • 3D**
-
-3D multiplayer project focused on networking and player interaction.
-
-### 🖱️ Stranger Clicker
-**Unity • 2D**
-
-2D clicker game focused on gameplay systems and progression.
-
----
-
-## 🌐 Connect With Me
-
-- 🌐 Portfolio
-- 💼 LinkedIn
-- 🎮 itch.io
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
