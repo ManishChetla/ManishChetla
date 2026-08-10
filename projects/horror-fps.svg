@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09090d"/><stop offset=".65" stop-color="#121018"/><stop offset="1" stop-color="#1a1420"/></linearGradient>
+ <radialGradient id="r" cx=".78" cy=".28" r=".55"><stop stop-color="#b78b3c" stop-opacity=".24"/><stop offset="1" stop-color="#b78b3c" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#g)"/><rect width="1200" height="675" fill="url(#r)"/>
+<g stroke="#7b6542" opacity=".18">
+ <path d="M0 540H1200"/><path d="M0 590H1200"/><path d="M160 0V675"/><path d="M360 0V675"/><path d="M560 0V675"/><path d="M760 0V675"/><path d="M960 0V675"/>
+</g>
+<rect x="70" y="70" width="1060" height="535" fill="none" stroke="#b78b3c" stroke-opacity=".28"/>
+<text x="100" y="150" fill="#827c74" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="4">PROJECT IMAGE PLACEHOLDER</text>
+<text x="100" y="315" fill="#f2eee6" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="2">HORROR FPS</text>
+
+<text x="100" y="430" fill="#c39a50" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="3">UNITY · 3D</text>
+<text x="100" y="545" fill="#716c67" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">REPLACE THIS FILE WITH THE REAL PROJECT IMAGE</text>
+</svg>

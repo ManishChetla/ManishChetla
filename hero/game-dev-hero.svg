@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#08080c"/><stop offset=".55" stop-color="#0d0d13"/><stop offset="1" stop-color="#15111d"/>
+  </linearGradient>
+  <radialGradient id="glowA" cx=".74" cy=".36" r=".48"><stop offset="0" stop-color="#b78b3c" stop-opacity=".30"/><stop offset="1" stop-color="#b78b3c" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowV" cx=".25" cy=".72" r=".52"><stop offset="0" stop-color="#4a315f" stop-opacity=".28"/><stop offset="1" stop-color="#4a315f" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#b78b3c" stop-opacity="0"/><stop offset=".5" stop-color="#d3aa60" stop-opacity=".65"/><stop offset="1" stop-color="#b78b3c" stop-opacity="0"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1600" height="620" fill="url(#bg)"/>
+<rect width="1600" height="620" fill="url(#glowA)"/>
+<rect width="1600" height="620" fill="url(#glowV)"/>
+
+<!-- atmospheric grid -->
+<g opacity=".12" stroke="#b9b3a8" stroke-width="1">
+  <path d="M0 500H1600"/><path d="M0 540H1600"/><path d="M0 580H1600"/>
+  <path d="M160 0V620"/><path d="M360 0V620"/><path d="M560 0V620"/><path d="M760 0V620"/>
+  <path d="M960 0V620"/><path d="M1160 0V620"/><path d="M1360 0V620"/>
+</g>
+
+<!-- distant world silhouette -->
+<path d="M0 465 L130 430 L230 448 L340 382 L430 420 L535 345 L630 405 L735 370 L830 426 L930 338 L1015 410 L1110 360 L1210 416 L1315 320 L1420 395 L1510 350 L1600 390 V520 H0Z"
+      fill="#0a0a0e" stroke="#2c2732" stroke-width="2"/>
+<path d="M0 505 Q400 465 800 500 T1600 485" fill="none" stroke="#b78b3c" stroke-opacity=".18" stroke-width="2"/>
+
+<!-- focal light / interface -->
+<g transform="translate(1030 125)">
+  <circle r="95" fill="#b78b3c" opacity=".10" filter="url(#blur)"/>
+  <circle r="48" fill="none" stroke="#c39a50" stroke-opacity=".35"/>
+  <circle r="5" fill="#d5ae63"/>
+  <path d="M-110 0H-58 M58 0H110 M0-110V-58 M0 58V110" stroke="#c39a50" stroke-opacity=".28"/>
+</g>
+
+<!-- restrained particles -->
+<g fill="#d5ae63">
+  <circle cx="118" cy="110" r="2" opacity=".5"/><circle cx="268" cy="188" r="1.5" opacity=".35"/>
+  <circle cx="1420" cy="130" r="2" opacity=".45"/><circle cx="1260" cy="245" r="1.5" opacity=".35"/>
+  <circle cx="1490" cy="450" r="1.5" opacity=".30"/><circle cx="890" cy="150" r="1.5" opacity=".30"/>
+</g>
+
+<!-- title block -->
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="92" y="150" fill="#d9d4cc" font-size="22" letter-spacing="7">GAME DEVELOPMENT / 01</text>
+  <text x="88" y="248" fill="#f5f1e8" font-size="72" font-weight="700" letter-spacing="3">MANISH CHETLA</text>
+  <rect x="92" y="280" width="210" height="3" fill="#c39a50"/>
+  <text x="92" y="340" fill="#d1cbc2" font-size="29" font-weight="700" letter-spacing="4">GAME DEVELOPER</text>
+  <text x="92" y="382" fill="#d1cbc2" font-size="29" font-weight="700" letter-spacing="4">GAMEPLAY PROGRAMMER</text>
+  <text x="92" y="445" fill="#9d9890" font-size="19" letter-spacing="2">UNITY  ·  UNREAL ENGINE  ·  C#  ·  C++  ·  BLUEPRINTS</text>
+  <text x="92" y="512" fill="#706b67" font-size="14" letter-spacing="3">BUILDING PLAYABLE SYSTEMS • WORLDS • MECHANICS</text>
+</g>
+<rect x="0" y="617" width="1600" height="3" fill="url(#line)"/>
+</svg>
