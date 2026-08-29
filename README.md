@@ -13,7 +13,7 @@
 </a>
 &nbsp;
 <a href="https://manishchetla.itch.io/" target="_blank">
-  <img src="https://img.shields.io/badge/🎮_ITCH.IO_GAMES-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" width="190" height="45" />
+  <img src="https://img.shields.io/badge/ ITCH.IO_GAMES-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" width="190" height="45" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/manish-chetla/" target="_blank">
@@ -21,7 +21,7 @@
 </a>
 &nbsp;
 <a href="mailto:manishchetla@example.com">
-  <img src="https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="190" height="45" />
+  <img src="https://img.shields.io/badge/_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="190" height="45" />
 </a>
 
 </div>
