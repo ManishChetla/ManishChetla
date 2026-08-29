@@ -12,15 +12,15 @@
 
 <br><br>
 
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<a href="https://manish-chetla.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0D1117?style=for-the-badge&logoColor=06B6D4" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/manish-chetla/" target="_blank">
   <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="YOUR_ITCH_URL" target="_blank">
+<a href="https://manishchetla.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/🎮_ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
 </a>
 &nbsp;
