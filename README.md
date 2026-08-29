@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=MANISH%20CHETLA&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=GAMEPLAY%20PROGRAMMER%20%7C%20GAME%20DEVELOPER&descSize=18&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=420&color=gradient&text=MANISH%20CHETLA&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=GAMEPLAY%20PROGRAMMER%20%7C%20GAME%20DEVELOPER&descSize=20&descAlignY=72" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Gameplay+Systems+%C2%B7+AI+%C2%B7+Physics+%C2%B7+Tools;Unity+%C2%B7+Unreal+Engine+5+%C2%B7+C%2B%2B+%C2%B7+C%23;Building+Performant%2C+Modular+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Gameplay+Systems+%C2%B7+AI+%C2%B7+Physics+%C2%B7+Tools;Unity+%C2%B7+Unreal+Engine+5+%C2%B7+C%2B%2B+%C2%B7+C%23;Building+Performant%2C+Modular+Architectures" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 <a href="https://manish-chetla.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0D1117?style=for-the-badge&logoColor=06B6D4" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0D1117?style=for-the-badge&logoColor=06B6D4" alt="Portfolio" width="190" height="45" />
 </a>
 &nbsp;
 <a href="https://manishchetla.itch.io/" target="_blank">
-  <img src="https://img.shields.io/badge/🎮_ITCH.IO_GAMES-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+  <img src="https://img.shields.io/badge/🎮_ITCH.IO_GAMES-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" width="190" height="45" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/manish-chetla/" target="_blank">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="190" height="45" />
 </a>
 &nbsp;
 <a href="mailto:manishchetla@example.com">
-  <img src="https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="190" height="45" />
 </a>
 
 </div>
@@ -68,6 +68,7 @@ Explore my **[Portfolio](https://manish-chetla.vercel.app/)** for detailed techn
 
 ---
 
+<!--
 ### 📊 GitHub Activity
 
 <div align="center">
@@ -77,6 +78,7 @@ Explore my **[Portfolio](https://manish-chetla.vercel.app/)** for detailed techn
 </div>
 
 <br>
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cyber&color=0:06b6d4,50:7c3aed,100:0d1117&height=80&section=footer" width="100%"/>
