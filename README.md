@@ -2,21 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=420&color=gradient&text=MANISH%20CHETLA&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=GAMEPLAY%20PROGRAMMER%20%7C%20GAME%20DEVELOPER&descSize=20&descAlignY=72" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com">
+<a href="https://readme-typing-svg.demolab.com" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Gameplay+Systems+%C2%B7+AI+%C2%B7+Physics+%C2%B7+Tools;Unity+%C2%B7+Unreal+Engine+5+%C2%B7+C%2B%2B+%C2%B7+C%23;Building+Performant%2C+Modular+Architectures" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<a href="https://manish-chetla.vercel.app/" target="_blank">
+<a href="https://manish-chetla.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0D1117?style=for-the-badge&logoColor=06B6D4" alt="Portfolio" width="190" height="45" />
 </a>
 &nbsp;
-<a href="https://manishchetla.itch.io/" target="_blank">
+<a href="https://manishchetla.itch.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ ITCH.IO_GAMES-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" width="190" height="45" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/manish-chetla/" target="_blank">
+<a href="https://www.linkedin.com/in/manish-chetla/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="190" height="45" />
 </a>
 &nbsp;
